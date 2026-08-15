@@ -1,9 +1,8 @@
-// Video links database — add/remove links here, no other code needs to change
-module.exports = [
+[
   "https://files.catbox.moe/9cb98c.mp4",
   "https://files.catbox.moe/1phjdi.mp4",
   "https://files.catbox.moe/76lcwu.mp4",
   "https://files.catbox.moe/2nd9jj.mp4",
   "https://files.catbox.moe/083c0f.mp4",
   "https://files.catbox.moe/49hlks.mp4"
-];
+]
